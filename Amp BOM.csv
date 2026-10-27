@@ -1,4 +1,4 @@
-Piece,Number,Price (USD),Link
+Part,Number,Price (USD),Link
 Capacitor 100nf,3,0.33,https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60J104KE19D/702433
 Capacitor 1uf,2,0.2,https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60G105MEA2D/2766944
 Capacitor 0.01uf,1,0.11,https://www.digikey.com/en/products/detail/murata-electronics/GRM033R71A103KA01D/702460

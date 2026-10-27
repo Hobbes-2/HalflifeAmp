@@ -1,0 +1,29 @@
+Piece,Number,Price (USD),Link
+Capacitor 100nf,3,0.33,https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60J104KE19D/702433
+Capacitor 1uf,2,0.2,https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60G105MEA2D/2766944
+Capacitor 0.01uf,1,0.11,https://www.digikey.com/en/products/detail/murata-electronics/GRM033R71A103KA01D/702460
+Capacitor 4.7uf,3,2.19,https://www.digikey.com/en/products/detail/cal-chip-electronics-inc/GMC10X7R475K10NT/24343641
+Capacitor 470pf,1,0.11,https://www.digikey.com/en/products/detail/murata-electronics/GRM033R71E471KA01D/702446
+Capacitor 10uf,1,0.28,https://www.digikey.com/en/products/detail/cal-chip-electronics-inc/GMC21X6S106K6R3NT/28882501?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EATFQoJoIFJAw4CxMuCoACAK0AxJqw6QQAVUH82AeVQBZXOmwBXXrnGEAtAFZECtFjyEJJDkkkxi4UA
+Capacitor 100uf,2,2.04,https://www.digikey.com/en/products/detail/cal-chip-electronics-inc/GMC31X6S107M4R0NT/30359890
+Audio Jack,1,2.21,https://www.digikey.com/en/products/detail/switchcraft-inc/35RASMT4BHNTRX/1288817
+9v Connector Pins,1,0.41,https://www.digikey.com/en/products/detail/samtec-inc/SSA-102-W-T/1105910
+NJ2FD-V (Amp jack),1,1.24,https://www.mouser.com/en/ProductDetail/Neutrik/NJ2FD-V?qs=2AuUxvzm3x8JdKlzelpdqQ%3D%3D
+BC550 Transistor,3,0.84,https://www.digikey.com/en/products/detail/onsemi/BC550CTA/974185?s=N4IgjCBcoLQKxVAYygMwIYBsDOBTANCAPZQDaIATCALoC%2BthVk5AQgMJxwAMABDYQDZEIAJYATKCBhguVQgAcALpJCFFAT3m5JY7CnpA
+Resistor 4.7k,4,0.4,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT4K70/1741708
+Resistor 100k,5,0.5,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT100K/1741564
+Resistor 10k,3,0.3,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT10K0/1741566
+Resistor 68k,1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CFM14JT68K0/1742271
+Resistor 2.2k,1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT2K20/1741619
+Resistor 3.3k,1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT3K30/1741665
+Resistor 1.5k,1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CFM14JT1K50/1742042
+Resistor 220k,1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT220K/1741641
+TLV1117-33,1,0.46,https://www.digikey.com/en/products/detail/texas-instruments/TLV1117-33CDCYR/1216718
+TL072,1,1,https://www.digikey.com/en/products/detail/texas-instruments/TL072IP/563039
+Power,1,7,https://www.amazon.com/DaierTek-Battery-Holder-Switch-Black/dp/B07YBZ18VS/ref=sr_1_6?crid=1U9ZB5Y0CWZNM&dib=eyJ2IjoiMSJ9.WRwbqtY6HXsnho_s_Ua6KwJcvSdgK72wzs4y71n4mX0wuluCSoSpyxYBsTnNdWsVK5ykWO_P8_aoQiro7uqYw4BO5U566xs4aXB9pBMJ043hSb54WlC2Rm8CDNvTsYO0apJb04Nmt2BlHuVpW2ucP8qgKjfWmtev5D5PMKTWea-xYShZCzaWs1yMrRot46WSNp7Ux8LNu12TTWS7NfNXQYKgUgsd8yXQauVQrGsN2vo.Yd12tfIeqCmiwpr1zeERkcti0l5q6xaZQRHXPPpXT48&dib_tag=se&keywords=dual+9v+battery+holder&qid=1792977639&sprefix=dual+9v+battery+holder%2Caps%2C179&sr=8-6
+Potentiometer ,3,7.95,https://www.digikey.com/en/products/detail/tt-electronics-bi/P0915N-FC15BR100K/5957453?s=N4IgTCBcDaIAoAYCcBGArAOQLQDEDC6AQgEooIIDSIAugL5A
+PCB,1,5.2,https://jlcpcb.com/
+Case,1,,Printing legion
+,,,
+Total tax,,28.7,
+Total,,61.97,
