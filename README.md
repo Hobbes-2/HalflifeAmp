@@ -73,4 +73,6 @@ BOM
 | Tax | $28.70 |
 | **Total** | **$61.97** |
 
+*Anything over the 65 for printing legion will be payed out of pocket, thank you!
+
 (BOM formatted for .MD by AI)
