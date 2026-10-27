@@ -68,6 +68,7 @@ BOM
 
 ## Cost Summary
 
+| Item | Amount (USD) |
 |---|---:|
 | Tax | $28.70 |
 | **Total** | **$61.97** |
